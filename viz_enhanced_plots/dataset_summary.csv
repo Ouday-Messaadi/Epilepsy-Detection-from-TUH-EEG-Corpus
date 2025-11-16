@@ -1,0 +1,12 @@
+metric,value
+Total Files Scanned,22093
+Valid EDF Files,7364
+Valid CSV Files,7365
+Valid CSV_BI Files,7364
+Invalid/Corrupted Files,0
+Unique Patients,675
+Unique Sessions,221
+Train Split,4667
+Eval Split,865
+Dev Split,1832
+Complete EDF+CSV+CSV_BI Triplets,7364
